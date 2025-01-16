@@ -1,2 +1,4 @@
 # jeux_de_mot
 Cette application permet de créer des mots à partir de lettres aléatoires, avec une contrainte de temps pour augmenter la difficulté. Jouez seul ou à deux, découvrez les meilleurs mots possibles, et suivez vos scores. Profitez d'une interface fluide et d'un retour audio pour chaque action.
+
+Cette application propose un jeu de mots où l'utilisateur doit deviner le plus long mot possible à partir d'une liste de lettres générée aléatoirement. Il peut jouer seul ou à deux, avec un choix de contrainte de temps pour rendre le jeu plus dynamique. Les scores sont basés sur la longueur des mots trouvés et le temps écoulé. Des fonctionnalités supplémentaires incluent l'affichage des mots valides, la découverte des meilleures combinaisons possibles, et un système de feedback audio pour une expérience améliorée.
